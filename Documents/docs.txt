@@ -1,9 +1,35 @@
 About:
+  The React Marvel API Webpage is a modular webpage that dynamically displays Marvel characters. Upon loading the webpage, the user is 
+  presented with a list of Marvel characters to choose from. The user can click on the image of a character to see all the details of that 
+  specific character. The user is also presented with loading screens and error messages to indicate if the API call was unsuccessful. 
+  React allows for a modular design, making the code easy to maintain and diagnose problems. By using useEffect, not everything needs to be 
+  rendered every time something changes; rendering occurs only when the user triggers a change. This approach makes the application very 
+  dynamic and user-friendly.
 
-Extensions:
+  Beware, the Marvel API can be very slow and cumbersome.
 
-Installs:
-  Axios
+Extensions Used:
+  Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets
+  Bootstrap 5 Quick Snippets
+  Prettier Code-formatter
+  Simple React Snippets
+  ES7+ React/Redux/React-Native snippets
+
+Dependencies:
+  -Axios: ^1.7.3
+  -BootStrap: ^5.3.3
+  -React: ^18.3.1
+  -React-dom: ^18.3.1
+
+DevDependencies:
+  -@types/react: ^18.3.3
+  -@types/react-dom: ^18.3.0
+  -@vitejs/plugin-react: ^4.3.1
+  -eslint: ^8.57.0
+  -eslint-plugin-react: ^7.34.3
+  -eslint-plugin-react-hooks: ^4.6.2
+  -eslint-plugin-react-refresh: "^0.4.7
+  -vite: ^5.3.4
 
 Assignment Questions:
   1. Mastering React Functional Components and Axios with useEffect

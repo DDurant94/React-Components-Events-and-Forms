@@ -1,0 +1,7 @@
+#character-list-img:hover{
+  cursor: pointer;
+}
+
+li:hover{
+  background-color: rgba(255, 0, 0, 0.559);
+}

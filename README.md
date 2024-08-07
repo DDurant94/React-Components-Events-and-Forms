@@ -1,8 +1,14 @@
-# React + Vite
+# React Marvel API Webpage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Author: Daniel Durant
 
-Currently, two official plugins are available:
+GitHub:
+<https://github.com/DDurant94>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Email:
+<dannyjdurant@gmail.com>
+
+Overview:
+  This is a dynamic React Vite webpage that connects to Marvel’s API and is modular in design. This project explores component lifecycle and events within React. I have relied on the state of objects and components to bring this project to life in the UI. For more details and explanations, please refer to my documents and review all the dependencies and extensions I have used on this journey with React.
+
+  Beware, Marvel’s API is very slow.
